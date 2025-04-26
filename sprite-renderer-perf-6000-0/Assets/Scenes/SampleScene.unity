@@ -97,7 +97,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: f5c3bf7543ae19049be9966f1b1bc013, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -321,13 +321,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   count: 1000
-  fps: 60
+  fps: 7
   sprites:
-  - {fileID: -1989705529, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
-  - {fileID: 1288373091, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
-  - {fileID: 1143068471, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
-  - {fileID: -1450920637, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
-  - {fileID: -1017480453, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
+  - {fileID: 4236321197489041454, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
+  - {fileID: -4075366832564009733, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
+  - {fileID: 7965045959631893045, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
+  - {fileID: 2304813226583236239, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
+  - {fileID: 6559299962073198271, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
   spawnRange: {fileID: 802410761}
 --- !u!4 &1883809252
 Transform:

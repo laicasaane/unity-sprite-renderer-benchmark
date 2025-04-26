@@ -291,7 +291,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   count: 1000
-  fps: 60
+  fps: 7
   sprites:
   - {fileID: 4236321197489041454, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
   - {fileID: -4075366832564009733, guid: fa8c69c45c22eca42937459c4399efee, type: 3}
